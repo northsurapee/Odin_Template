@@ -13,7 +13,7 @@ This template include
 
 ### Available commands
 
-Install all dependencies from package.json : `npm install`
-Format all files with Prettier : `npx prettier . --write`
-Make sure that everyone runs Prettier : `npx prettier . --check`
-Build bundles file (main.js) : `npx webpack` or `npx webpack --watch`
+- Install all dependencies from package.json : `npm install`
+- Format all files with Prettier : `npx prettier . --write`
+- Make sure that everyone runs Prettier : `npx prettier . --check`
+- Build bundles file (main.js) : `npx webpack` or `npx webpack --watch`
