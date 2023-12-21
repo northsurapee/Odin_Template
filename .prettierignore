@@ -1,2 +1,3 @@
 # Ignore artifacts:
-main
+main.js
+style.css
