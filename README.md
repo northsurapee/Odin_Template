@@ -6,7 +6,10 @@ This template include
 - WebPack
 - ESLint
 - Prettier
-- index.html, index.js and style.css
+- Roboto font
+- The Mayer CSS Reset
+- kit.fontawesome (add icon)
+- Initial files including index.html, index.js and style.css
 
 ### Available commands
 
